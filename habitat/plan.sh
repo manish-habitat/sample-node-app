@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=node-js-practice
+pkg_origin=manish-mehra
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.2"
 
